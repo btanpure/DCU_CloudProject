@@ -12,7 +12,7 @@ The group members comprised of:
 7. Zeeshan Asgar
 
 # Daft
-It is a nodejs application.
+This is a nodejs application.
 
 # Prerequisite
 
@@ -42,4 +42,4 @@ It is a nodejs application.
 
 
 **You can open browser:**
-  - Enter http://localhost:3000/
+  - Enter http://{{ GCP_INSTANCE_IP }}/
